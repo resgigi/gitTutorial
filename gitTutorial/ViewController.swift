@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("testgithubne")
         var a = "test nua ne"
-    
+            var b = "var them cai ne"
     }
 
     @IBOutlet weak var textview: UITextView!
