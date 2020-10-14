@@ -12,9 +12,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("testgithubne")
-        var a = "test nua ne"
-            var b = "var them cai ne"
+        print("Git Tutorial")
+               print("Hi there, this is branch develop")
+               print("Hello, this is commit to remote")
     }
 
     @IBOutlet weak var textview: UITextView!
